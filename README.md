@@ -1,1 +1,1 @@
-# cleanup-refactoring-ts-movie-rental
+# Welcome to the Systematic Code Cleanup / Refactoring JavaScript Workshop!

@@ -1,0 +1,17 @@
+{
+  "name": "movie-rental-ts-initial",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "watch": "npx tsc -w",
+    "compile": "npx tsc"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "singleQuote": true
+  }
+}
